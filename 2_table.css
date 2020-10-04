@@ -1,0 +1,8 @@
+
+table, tr, td{
+    background-color: yellow;
+    border: solid 1px red;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center
+}
